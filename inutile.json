@@ -1,0 +1,21 @@
+{
+    "savoirs": [
+        {
+                "id": "1010",
+                "titre": "Savoir 1 (eng):",
+                "phrase": "Humans and bananas share about 50 percent of the same DNA..."
+        },
+        {
+                "id": "1011",
+                "titre": "Savoir 2(eng):",
+                "phrase": "Japan has the most vending machines per capita, a staggering 1:23."
+        },
+        {
+                "id": "1101",
+                "titre": "Savoir 3(eng):",
+                "phrase": "Honey is the only food that does not spoil."
+        }
+        
+
+    ]
+}
